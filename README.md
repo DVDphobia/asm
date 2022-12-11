@@ -1,2 +1,2 @@
 # asm
-learn assembly lang
+this is my first assembly lang
